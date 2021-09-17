@@ -1,0 +1,20 @@
+C:\Users\casper\Desktop\TersDuz\TersDuz\bin\Debug\TersDuz.exe.config
+C:\Users\casper\Desktop\TersDuz\TersDuz\bin\Debug\TersDuz.exe
+C:\Users\casper\Desktop\TersDuz\TersDuz\bin\Debug\TersDuz.pdb
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.Form1.resources
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.Properties.Resources.resources
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.exe
+C:\Users\casper\Desktop\TersDuz\TersDuz\obj\Debug\TersDuz.pdb
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\bin\Debug\TersDuz.exe.config
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\bin\Debug\TersDuz.exe
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\bin\Debug\TersDuz.pdb
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.csproj.AssemblyReference.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.Form1.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.Properties.Resources.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.csproj.GenerateResource.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.csproj.CoreCompileInputs.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.exe
+D:\Freelance\Portfolyo\yazılım\Biten İşler\TersDuz\TersDuz\obj\Debug\TersDuz.pdb
